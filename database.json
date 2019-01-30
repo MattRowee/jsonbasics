@@ -1,0 +1,34 @@
+{
+"food":[
+    {
+        "id": 1,
+        "name": "Linguine",
+        "category": "pasta",
+        "ethnicity": "itlian"
+    },
+    {
+        "id": 2,
+        "name": "Fried Rice",
+        "category": "rice dish",
+        "ethnicity": "Chinese"
+    },
+    {
+        "id": 3,
+        "name": "Borscht",
+        "category": "soup",
+        "ethnicity": "Ukranian"
+    },
+    {
+        "id": 4,
+        "name": "Yukgejeong",
+        "category": "soup",
+        "ethnicity": "Korean"
+    },
+    {
+        "id": 5,
+        "name": "Soba",
+        "category": "pasta",
+        "ethnicity": "Japanese"
+    }
+]
+}
